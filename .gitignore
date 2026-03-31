@@ -1,0 +1,13 @@
+__pycache__/
+.venv/
+env/
+.env
+.ipynb_checkpoints/
+*.csv
+*.tsv
+*.npy
+*.db
+*.sqlite
+.DS_Store
+node_modules/
+
