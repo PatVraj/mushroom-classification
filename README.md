@@ -3,8 +3,9 @@
 ## Overview
 A comprehensive analytical deep-dive into mushroom classification, leveraging advanced data science techniques to classify poisonous vs. edible mushrooms. This project focuses on evaluating whether a mushroom's toxicity can be determined based on easily identifiable human features or basic physical properties.
 
-[📄 View the Data Science Project Report](./mushroom-ds.pdf)
-[📊 View the Project Presentation](./Adv%20Data%20Science_%20Final%20Project.pptx)
+[View the Data Science Project Report](./mushroom-ds.pdf)
+
+[View the Project Presentation](./Adv%20Data%20Science_%20Final%20Project.pptx)
 
 ## Architecture / Tech Stack
 - **Language**: Python
