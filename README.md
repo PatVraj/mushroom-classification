@@ -14,11 +14,11 @@ A comprehensive analytical deep-dive into mushroom classification, leveraging ad
 
 ```mermaid
 flowchart TD
-    A[Mushroom Dataset (61k+ rows)] --> B[Data Preprocessing & Cleaning]
-    B --> C[K-Means Clustering]
-    B --> D[Gaussian Mixture Models]
-    C & D --> E[Interpretability / Feature Importance]
-    E --> F[Classification Results (Edible vs Poisonous)]
+    A["Mushroom Dataset (61k+ rows)"] --> B["Data Preprocessing & Cleaning"]
+    B --> C["K-Means Clustering"]
+    B --> D["Gaussian Mixture Models"]
+    C & D --> E["Interpretability / Feature Importance"]
+    E --> F["Classification Results (Edible vs Poisonous)"]
 ```
 
 ## Local Setup Instructions
